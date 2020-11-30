@@ -6,7 +6,7 @@ The dataset used for our analysis - http://jmcauley.ucsd.edu/data/amazon/index_2
 
 The final project report - 
 
-Team-34: 
-@sanskritip
-@venkatavardan-r
-@avinash-vk
+### Team-34: <br>
+[@sanskritip](https://github.com/sanskritip)
+[@venkatavaradan-R](https://github.com/Venkatavaradan-R)
+[@avinash-vk](https://github.com/avinash-vk)
