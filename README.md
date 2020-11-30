@@ -31,7 +31,7 @@ The original dataset is huge and takes a lot of computational power to process. 
 ### To run the project
 Update the urls in the files and run following steps
 
-- Data cleaning: Run `datacleaning.ipynb` with its dataset url pointing to the location where your dataset is stored. Modify the "CLEAN_URL" to the output file as well where the clean dataframe would be written into.
-- Exploratory data analysis: Run `EDA.ipynb` with the url pointing to the cleaned version of the dataset from above to view the different visualisations from the dataset.
-- Model Building and training: Inside the `models/` folder, run the models.ipynb to compare and train different models we build, like Support Vector Machines, Naive Bayes Classifier, Random Forest Classifier, Stochastic Gradient Descent (SVM Linear) etc, and view the accuracies and compare them. To run BERT model, run the `BERT.ipynb` with the url pointing to the cleaned dataset
+- <b>Data cleaning</b>: Run `datacleaning.ipynb` with its dataset url pointing to the location where your dataset is stored. Modify the "CLEAN_URL" to the output file as well where the clean dataframe would be written into.
+- <b>Exploratory data analysis</b>: Run `EDA.ipynb` with the url pointing to the cleaned version of the dataset from above to view the different visualisations from the dataset.
+- <b>Model Building and training</b>: Inside the `models/` folder, run the `models.ipynb` to compare and train different models we build, like Support Vector Machines, Naive Bayes Classifier, Random Forest Classifier, Stochastic Gradient Descent (SVM Linear) etc, and view the accuracies and compare them. To run BERT model, run the `BERT.ipynb` with the url pointing to the cleaned dataset
 
