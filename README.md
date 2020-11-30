@@ -4,7 +4,7 @@ This project showcases a comparative study between different machine learning mo
 
 The dataset used for our analysis - http://jmcauley.ucsd.edu/data/amazon/index_2014.html
 
-The final project report - 
+The final project report - [Final report](https://github.com/avinash-vk/Sentiment-analysis-on-amazon-reviews/blob/main/34_Aavs_FinalReport.pdf)
 
 ### Team-34: <br>
 [@sanskritip](https://github.com/sanskritip)
