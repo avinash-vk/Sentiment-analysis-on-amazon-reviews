@@ -19,3 +19,19 @@ http://jmcauley.ucsd.edu/data/amazon/index_2014.html
 - Venkatavaradan Raghuraman - [@venkatavaradan-R](https://github.com/Venkatavaradan-R)
 - Avinash V K - [@avinash-vk](https://github.com/avinash-vk)
 - Akshay C Patil - [@akshaycpatil](https://github.com/akshaycpatil)
+
+---
+
+## Running the project
+
+The original dataset is huge and takes a lot of computational power to process. Here are some samples from the original dataset that can be used to execute the project. Make sure to download/save it to your drive, and change the URLs in the files accordingly.
+
+- [Subset of the original dataset with 50k rows](https://drive.google.com/file/d/1EW-2ZiC2Df8PufsuNMPqIrdx6_zo29D1/view?usp=sharing)
+
+### To run the project
+Update the urls in the files and run following steps
+
+- Data cleaning: Run datacleaning.ipynb with its dataset url pointing to the location where your dataset is stored. Modify the "CLEAN_URL" to the output file as well where the clean dataframe would be written into.
+- Exploratory data analysis: Run EDA.ipynb with the url pointing to the cleaned version of the dataset from above to view the different visualisations from the dataset.
+- Model Building and training: Inside the `models` folder, run the models.ipynb to compare and train different models we build, like Support Vector Machines, Naive Bayes Classifier, Random Forest Classifier, Stochastic Gradient Descent (SVM Linear) etc, and view the accuracies and compare them. To run BERT model, run the `BERT.ipynb` with the url pointing to the cleaned dataset
+
